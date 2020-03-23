@@ -1,1 +1,176 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+html {
+    background: url("./assets/Mask Group 1.svg");
+    background-repeat: no-repeat;
+    font-family: "Lexend Deca";
+    overflow-x: hidden;
+}
+
+body * {
+    transition: all 1s ease-in-out;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+nav {
+    padding: 20px 0px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+header {
+    height: 700px;
+    position: relative;
+    padding-top: 60px;
+}
+
+header div {
+    padding-top: 200px;
+   
+}
+
+header h1 {
+    font-size: 3.5vw;
+    width: 55%;
+}
+
+header a {
+    display: block;
+    background: #000;
+    color: #eee;
+    text-decoration: none;
+    padding: 18px;
+    width: 150px;
+    text-align: center;
+    border-radius: 35px;
+    margin-top: 40px;
+}
+
+header img {
+    position: absolute;
+    right: -340px;
+    top: 170px;
+    z-index: -1;
+}
+
+
+main section {
+    display: flex;
+    align-items: center;
+    margin: 250px 0px;
+    justify-content: space-between;
+}
+
+main section div:last-of-type {
+    width: 40%;
+}
+
+main section div h2 {
+    margin-bottom: 40px;
+}
+main section div p {
+    line-height: 26px;
+}
+
+.image {
+    width: 400px;
+}
+
+
+.separator {
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: #000;
+    border-radius: 100%;
+}
+
+
+@media only screen and (max-width: 1400px) {
+    
+    header div {
+        padding-top: 150px;
+    }
+
+    header div h1 {
+        font-size: 40px;
+    }
+    
+    header img {
+        width: 600px;
+        right: -10%;
+    }
+ 
+    .image {
+        width: 300px;
+    }
+    
+    .separator {
+        width: 20px;
+        height: 20px;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 900px) {
+    header div {
+        padding-top: 50px;
+    }
+
+    header div h1 {
+        width: 100%;
+        font-size: 40px;
+    }
+    
+    
+    header img {
+        width: 500px;
+        top: 250px;
+        right: -20%;
+    }
+    
+    main section {
+        display: block;
+        margin: 250px 0px;
+        text-align: center;
+        background: #fff;
+        padding:10px;
+        border-radius: 10px;
+    }
+    
+    .separator {
+        display: none;
+    }
+
+    .image {
+        width: 200px;
+        margin-bottom: 40px;
+    }
+
+    main section * {
+        width: 100%;
+    }
+
+    main section div:last-of-type {
+        width: 100%;
+        text-align: left;
+    }
+    
+}

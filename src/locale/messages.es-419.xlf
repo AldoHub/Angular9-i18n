@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="eba559014005cff8617a317ba4037fac83e677ca" datatype="html">
+        <source>Angular International</source>
+        <target>Angular Internacional</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96de4a51908e45bb28af494a5a5e69d50ff74394" datatype="html">
+        <source>Localize your application to reach more customers</source>
+         <target>Localiza tu aplicacion para alcanzar mas clientes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4b17636c721c765edafed65603053b7bcff25788" datatype="html">
+        <source> Get Started </source>
+         <target>Comienza Ya</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e34e6c8c27223c1037987b7bf2853ae618e0bf6d" datatype="html">
+        <source>Develop Across All Platforms</source>
+        <target>Desarrolla através de todas las plataformas</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="50f428445bebf654d47ca7e474b6ae4a1c2aff7d" datatype="html">
+        <source>Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.</source>
+        <target>Aprende una manera de construir aplicaciones con Angular y reusar tú código y habilidades para construir apps para cualquier objetivo de desarrollo. Para web, móvil web, móvil nativo y escritorio nativo.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0e888c77fb45207c3952143297fefe29de23fa6b" datatype="html">
+        <source>Speed And Performance</source>
+        <target>Velocidad y Desempeño</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3702709ffe49db85b9d291b1a9fb899635db5ef2" datatype="html">
+        <source>Achieve the maximum speed possible on the Web Platform today, and take it further, via Web Workers and server-side rendering.</source>
+        <target>Logra la máxima velocidad posible en la plataforma Web hoy mísmo, y llevalo más allá vía Web Workers y SSR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15e87b67363f68d98f304de82b1c047bbb50ab30" datatype="html">
+        <source>Angular puts you in control over scalability. Meet huge data requirements by building data models on RxJS, Immutable.js or another push-model.</source>
+        <target>Angular te pone en control de la escalabilidad. Comprende gran requerimientos de información construyendo modelos de información con RxJs, Immutable.js o cualquier otro push-model.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5bb2f0ffe2e2326682a9896b059d9dc4e08f53dc" datatype="html">
+        <source>Incredible Tooling</source>
+        <target>Herramientas Increibles</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7a85374295c94886cd5bfc7294c4c18d94569207" datatype="html">
+        <source>Build features quickly with simple, declarative templates. Extend the template language with your own components and use a wide array of existing components. Get immediate Angular-specific help and feedback with nearly every IDE and editor. All this comes together so you can focus on building amazing apps rather than trying to make the code work.</source>
+        <target>Construye caracteristicas rápidament con templates declarativos simples. Extiende en lenguaje del template con tus propios componentes y usa una gran variedad de componentes existentes. Obtén ayuda inmediata especifica de Angular y feedback con casi cualquier IDE y editor. Todo esto viene integrado para que tú te puedas concentrar en construir apps magníficas en vez de intentar hacerlo todo desde cero.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a3620105a27732f86e36f9154ef3d6e379ed71d6" datatype="html">
+        <source>Loved By Millions</source>
+        <target>Amado por millones</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3da21d2b8d569667e03ec4c466120a39e63afd63" datatype="html">
+        <source>From prototype through global deployment, Angular delivers the productivity and scalable infrastructure that supports Google&apos;s largest applications.
+      </source>
+        <target>Desde prototipos hasta deploments globales, Angular entrega la productividad e infraestructura escalable que brinda soporte a las grandes aplicaciones de Google</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

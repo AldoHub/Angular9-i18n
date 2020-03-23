@@ -5,6 +5,11 @@
   "projects": {
     "angular-international": {
       "projectType": "application",
+      "i18n": {
+        "locales": {
+          "es-419": "src/locale/messages.es-419.xlf"
+        }
+      },
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
@@ -56,6 +61,9 @@
                   "maximumError": "10kb"
                 }
               ]
+            },
+            "es-419": {
+              "localize": ["es-419"]
             }
           }
         },
@@ -67,6 +75,9 @@
           "configurations": {
             "production": {
               "browserTarget": "angular-international:build:production"
+            },
+            "es-419": {
+              "browserTarget": "angular-international:build:es-419"
             }
           }
         },
